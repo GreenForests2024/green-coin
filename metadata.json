@@ -1,0 +1,12 @@
+{
+  "name": "Green Coin",
+  "symbol": "$GREEN",
+  "uri": "https://GreenForests2024.github.io/green-coin/logo.png",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "F3JVgZim5aFpVLcpVz3PsLufbeittz3Ret2MfBxo4TVB",
+      "share": 100
+    }
+  ]
+}
